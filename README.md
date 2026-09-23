@@ -177,3 +177,9 @@ Per valutare il contenuto tematico dei documenti si richiedono le stime di $\the
 
 ## Esecuzione dell' algoritmo e ricostruzione dei topic
 
+## Struttura della repository
+- `notebook/` : Jupyter Notebook contenente il codice del progetto.
+- `immagini/` : Selezione di immagini contenute in questo README.
+## Come consultare il progetto
+Il Jupyter Notebook è il punto di accesso all'intera analisi e permette di approfondire gli aspetti metodologici e implementativi del progetto. Grazie all'integrazione di codice, commenti e risultati, è possibile seguire il processo di analisi nel dettaglio, compresi i vari accorgimenti operativi e le ottimizzazioni adottate.
+
