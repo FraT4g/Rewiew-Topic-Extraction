@@ -177,6 +177,17 @@ Per valutare il contenuto tematico dei documenti si richiedono le stime di $\the
 
 ## Esecuzione dell' algoritmo e ricostruzione dei topic
 
+
+Le parole chiave ricavate, sembrano inquadrare un argomento specifico tra quelli trattati nelle varie recensioni.
+- 3 Arte e Musei
+- 2 Movida milanese nella zona dei Navigli
+- 1 Attività nel verde urbano
+- 5 Turismo religioso
+- 4 Location panoramiche
+- 7 Itinerari turistici
+- 6 Visite guidate
+
+
 ## Struttura della repository
 - `notebook/` : Jupyter Notebook contenente il codice del progetto.
 - `immagini/` : Selezione di immagini contenute in questo README.
