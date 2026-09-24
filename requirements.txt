@@ -1,1 +1,13 @@
-
+jupyter notebook
+warnings
+pandas
+numpy
+matplotlib
+nltk
+string
+spacy
+gensim
+pyLDAvis
+sklearn.feature_extraction.text
+sklearn.decomposition
+wordfreq
