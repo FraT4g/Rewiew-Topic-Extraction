@@ -173,10 +173,12 @@ Per valutare il contenuto tematico dei documenti si richiedono le stime di $\the
 
 * $$\phi_{k,wi}=\frac{C_{k,w_i}^1+\beta}{\sum_w C_{k,w}^1+N\beta} $$
 
-## Prewiew del Dataset
+## Dataset overwiew
+![](immagini/data_set.png)
 
 ## Esecuzione dell' algoritmo e ricostruzione dei topic
-
+![](immagini/topic1.png)
+![](immagini/topic2.png)
 
 Le parole chiave ricavate, sembrano inquadrare un argomento specifico tra quelli trattati nelle varie recensioni.
 - 3 Arte e Musei
